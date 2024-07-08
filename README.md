@@ -1,4 +1,4 @@
-# NodeJs BoilerPlate Code
+# NodeJs Code
 
 <mark>This Repo consists of the base setup for building Generic NodeJs Backend with Sequelize and MySql using Express.</mark>
 
@@ -24,7 +24,7 @@
 5. All Seed Undo -> `sequelize db:seed:undo:all`
 6. Particular seed undo-> `sequelize db:seed:undo --seed filename`
 
-###### Built and maintained by CrestDev01 [Find Me!](#find-me).
+###### Built and maintained by CrestDev02 [Find Me!](#find-me).
 
 ## Let's Dig Into The Code And Explore!
 
@@ -39,7 +39,7 @@
 
 # `1. NodeJs Setup`
 
-I have setup this boilerplate code using Node Version: `16.13.0` (includes npm `8.1.0`)<br/>
+I have setup this code using Node Version: `16.13.0` (includes npm `8.1.0`)<br/>
 
 ### [📝] Have NodeJs in your System
 
@@ -50,7 +50,7 @@ You can have the Node LTS and configure it from [Nodejs.org](https://nodejs.org/
 
 - You can clone this repo from command line using `git clone ${repo_url}`.
 
-  - `git clone https://github.com/Node_Boilerplate_Sequelize.git`
+  - `git clone https://github.com/node-sequelize.git`
 
 - Run `npm install | yarn`
 - Create an `.env` file and add your configuration as per your need similar to reference file `.env.example`

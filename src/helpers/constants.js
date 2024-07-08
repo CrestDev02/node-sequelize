@@ -1,5 +1,5 @@
 /**
- * This file is part of [NODEJS BOILERPLATE]
+ * This file is part of [NODEJS SEQUELIZE]
  *
  * (c) 2022 [CrestDev02] @ CrestDev02
  *
